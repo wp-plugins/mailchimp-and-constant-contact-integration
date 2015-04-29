@@ -3,7 +3,7 @@ Contributors: WEB4PRO_co
 Donate link: http://www.web4pro.net
 Tags: woocommerce, mailchimp, constant contact, integration
 Requires at least: 3.5.1
-Tested up to: 4.0
+Tested up to: 4.2.1
 Stable tag: mailchimp/constant contact
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
